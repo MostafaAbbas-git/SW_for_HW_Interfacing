@@ -1,2 +1,3 @@
 # SW_for_HW_Interfacing
-Tasks required in SW_for_HW_Interfacing course
+This repository contains all tasks and labs submissions codes required in SBE 403A course.
+
