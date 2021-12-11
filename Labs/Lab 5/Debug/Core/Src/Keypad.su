@@ -1,0 +1,4 @@
+Keypad.c:14:6:delay30ms	16	static
+Keypad.c:21:6:Keypad_Init	16	static
+Keypad.c:38:6:Keypad_Manage	16	static
+Keypad.c:71:15:Keypad_GetKey	4	static
